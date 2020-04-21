@@ -1,1 +1,1 @@
-insert into employee(name, salary) values('Sam', 2000);
+insert into employee(name, salary) values('Sam', 2000
